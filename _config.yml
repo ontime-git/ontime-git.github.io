@@ -30,7 +30,8 @@ use_authors: true #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_name: OnTime
 header: 당신의 지식이 세상에 도움이 되도록
-subheader: | 우리는 카더라 지식공유 플랫폼을 통해 정보 공유 방식을 새롭게 정의합니다. 
+subheader: | 
+           우리는 카더라 지식공유 플랫폼을 통해 정보 공유 방식을 새롭게 정의합니다.
            친한 사람의 정보는 전문인 지식보다 유용하게 활용됩니다.
            우리가 나보다 똑똑하다라는 신념으로 자신의 지식을 공유하여 집단지성을 만들기를 바랍니다.          
 
