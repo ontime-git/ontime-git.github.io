@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OnTime - A Jekyll Knowledge Base Theme
+title: OnTime Development Blog
 description: OnTime Github Pages!
 baseurl: / # the subpath of your site, e.g. /support
 url: https://ontime-git.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
+content_type: 당신이 전문가! #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
@@ -37,7 +37,7 @@ subheader: |+
            
            이를 통해 누구나 자신의 지식을 공유하여 형성된 집단지성으로 보다 나은 세상으로 나아가길 바랍니다.
 
-meta_image: odin-meta.png
+# meta_image: odin-meta.png
 
 # Social Links
 twitter_username: TheTeaGuns
