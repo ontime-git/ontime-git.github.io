@@ -2,11 +2,11 @@
 
 
 using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
+  name: 창업 준비
+  description: 나의 10년 후를 위한 여정
 using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
+  name: 경영
+  description: 사람, 기술, 시간, 돈
 customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+  name: 나의 서고
+  description: 글로 시작한 창업과 그 기록
