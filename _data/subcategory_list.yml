@@ -2,17 +2,17 @@
 
 
 subcategory-one:
-  name: Subcategory One
+  name: 법인 등기
   parent-category: using-subcategories
-  parent-category-name: Using Subcategories
+  parent-category-name: 창업! 그 시작
   description: This is your first subcategory!
 subcategory-two:
-  name: Subcategory Two
+  name: 자금 확보
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your second subcategory!
 subcategory-three:
-  name: Subcategory Three
+  name: 영업
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
