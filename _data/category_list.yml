@@ -1,12 +1,11 @@
 #This file defines all the categories you are using
 
-
-using-subcategories:
+setup:
   name: 창업 준비
   description: 나의 10년 후를 위한 여정
-using-odin:
+management:
   name: 경영
   description: 사람, 기술, 시간, 돈
-customizing-odin:
+trace:
   name: 나의 서고
   description: 글로 시작한 창업과 그 기록
