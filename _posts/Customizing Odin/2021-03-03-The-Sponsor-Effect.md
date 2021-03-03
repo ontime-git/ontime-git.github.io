@@ -9,8 +9,7 @@ published: true
 ---
 
 -----
-
-({{site.url}}//assets/booklog/sponsor1.jpg)
+![]({{site.baseurl}}//assets/booklog/sponsor1.jpg)
 <p style="color:gray; font-size:80%; text-align:center;">스폰서십. 이것은 거래다. 그것도 아주 철저한. 소제목 中에서</p>
 
 
@@ -18,9 +17,7 @@ published: true
 
 다루고자 하는 내용은 다소 진부했다. 하지만 내용을 풀어가기 위해 사용한 접근법과 작가가 던진 명제는 매우 신선했다. 명제의 오류가 발견되기 전까지는 따르고자 노력하는 지침이 될 것 같다. 
 
- 
-
-({{site.url}}//assets/booklog/sponsor2.jpg)
+![]({{site.url}}//assets/booklog/sponsor2.jpg)
 <p style="color:gray; font-size:80%; text-align:center;">자네의 멘토가 거기까지 밖에 오르지 못했다는게 그 증거지 - 본문 中에서</p>
 
 
@@ -32,5 +29,5 @@ published: true
 
 창업을 마음 먹은 지금 이 순간. 나에겐 인재가 절실해졌고 강한 스폰서십 관계가 필요해졌다. 아직까진 완벽한 나의 언어가 되지 못했기 때문에 오늘은 책의 내용을 발췌하고 내가 다시 학습하기 쉽게 정리하여 재구하면 다음과 같다.
 
-({{site.url}}//assets/booklog/sponsor3.jpg)
+![]({{site.url}}//assets/booklog/sponsor3.jpg)
 <p style="color:gray; font-size:80%; text-align:center;">『후배 하나 잘 키웠을 뿐인데』실비아 엔 휴랫</p>
