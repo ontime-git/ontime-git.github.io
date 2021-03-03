@@ -28,3 +28,5 @@ published: true
 
 ![]({{site.url}}//assets/booklog/sponsor3.jpg)
 <p style="color:gray; font-size:80%; text-align:center;">『후배 하나 잘 키웠을 뿐인데』실비아 엔 휴랫</p>
+
+
