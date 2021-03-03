@@ -1,18 +1,17 @@
 #Tihs file defines all categories that live within a parent category
 
-
-subcategory-one:
+registration:
   name: 법인 등기
-  parent-category: using-subcategories
+  parent-category: setup
   parent-category-name: 창업! 그 시작
   description: This is your first subcategory!
-subcategory-two:
+funding:
   name: 자금 확보
-  parent-category: using-subcategories
+  parent-category: setup
   parent-category-name: Using Subcategories
   description: This is your second subcategory!
-subcategory-three:
+marketing:
   name: 영업
-  parent-category: using-subcategories
+  parent-category: setup
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
