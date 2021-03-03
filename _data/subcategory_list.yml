@@ -15,3 +15,19 @@ marketing:
   parent-category: setup
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
+  
+culture:
+  name: 기업 문화
+  parent-category: management
+  parent-category-name: 창업! 그 시작
+  description: This is your first subcategory!
+humanresource:
+  name: 인사 노무
+  parent-category: management
+  parent-category-name: Using Subcategories
+  description: This is your second subcategory!
+accounting:
+  name: 회계 세무
+  parent-category: management
+  parent-category-name: Using Subcategories
+  description: This is your third subcategory!
