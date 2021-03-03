@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 후배하나 잘 키웠을 뿐인데
+title: The Sponsor Effect - Sylvia Ann Hewlett
 date: '2019-11-05 08:44:38 -0400'
 category: customizing-odin
 author: mac
