@@ -9,7 +9,8 @@ published: true
 ---
 
 -----
-![]({{site.baseurl}}//assets/booklog/sponsor1.jpg)
+
+![]({{site.url}}//assets/booklog/sponsor1.jpg)
 <p style="color:gray; font-size:80%; text-align:center;">스폰서십. 이것은 거래다. 그것도 아주 철저한. 소제목 中에서</p>
 
 
