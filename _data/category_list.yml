@@ -7,5 +7,5 @@ management:
   name: 경영 수업
   description: 사람, 기술, 시간, 돈
 trace:
-  name: 나의 서고
+  name: 사내 서고
   description: 글로 시작한 창업과 그 기록
