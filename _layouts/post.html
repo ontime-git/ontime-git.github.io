@@ -19,7 +19,7 @@ published: true
               <a href="{{ site.url }}{{ site.baseurl }}">창업, 그 시작!</a>
             </li>
             <li class="breadcrumb-item">
-              <a href="../{{ page.category }}">{{ page_category.name }}</a>
+              <a href="{{ site.url }}{{ site.baseurl }}/{{ page_subcategory.parent-category | slugify }}/{{ page.category }}">{{ page_category.name }}</a>
             </li>
             <li class="breadcrumb-item">
               <a href="#">{{ page.title }}</a>
