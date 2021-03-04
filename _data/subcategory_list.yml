@@ -3,31 +3,31 @@
 registration:
   name: 법인 등기
   parent-category: setup
-  parent-category-name: 창업! 그 시작
-  description: This is your first subcategory!
+  parent-category-name: 창업 준비
+  description: 법인 설립 준비 과정에 대한 기록
 funding:
   name: 자본 유치
   parent-category: setup
-  parent-category-name: Using Subcategories
-  description: This is your second subcategory!
-marketing:
+  parent-category-name: 창업 준비
+  description: 자본 유치 과정에 대한 기록
+trend:
   name: 동향 분석
   parent-category: setup
-  parent-category-name: Using Subcategories
-  description: This is your third subcategory!
+  parent-category-name: 창업 준비
+  description: 시장 및 기술 동향에 대한 기록
   
 culture:
   name: 기업 문화
   parent-category: management
-  parent-category-name: 창업! 그 시작
+  parent-category-name: 경영 수업
   description: This is your first subcategory!
 humanresource:
   name: 인사 노무
   parent-category: management
-  parent-category-name: Using Subcategories
+  parent-category-name: 경영 수업
   description: This is your second subcategory!
 accounting:
   name: 회계 세무
   parent-category: management
-  parent-category-name: Using Subcategories
+  parent-category-name: 경영 수업
   description: This is your third subcategory!
