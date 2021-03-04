@@ -6,12 +6,12 @@ registration:
   parent-category-name: 창업! 그 시작
   description: This is your first subcategory!
 funding:
-  name: 자금 확보
+  name: 자본 유치
   parent-category: setup
   parent-category-name: Using Subcategories
   description: This is your second subcategory!
 marketing:
-  name: 영업
+  name: 동향 분석
   parent-category: setup
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
