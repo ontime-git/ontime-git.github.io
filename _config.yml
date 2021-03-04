@@ -29,8 +29,9 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: OnTime Inc.
-header: Aspirin Sells Better Than Vitamins!
-subheader: We create a aspirin - "must-to-have" not a vitamin - "nice-to-have"
+header: Let's create a Paint Killer!
+subheader: We create a aspirin - "must-have" not a vitamin - "nice-to-have". <br>
+           Aspirin Sells Better Than Vitamins!
 
 # meta_image: odin-meta.png
 
