@@ -1,0 +1,11 @@
+---
+layout: subcategory
+category: setup
+subcategory: trend
+title: 동향 분석
+published: true
+---
+
+{% for post in site.categories.trend %}
+  {% include article-card.html %}
+{% endfor %}
