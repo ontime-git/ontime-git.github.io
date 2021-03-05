@@ -10,6 +10,12 @@ published: true
 
 -----
 
+
+##### Mapping 코드 : 통계청 산업분류코드 + 국세청 업종코드 
+
+홈텍스 - 조회/발급 - 기타 조회 - 기준 단순 경비율(업종코드)에서 [`업종코드-표준산업분류 연계표(엑셀)`](https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index_pp.xml&tmIdx=1&tm2lIdx=0111050000&tm3lIdx=0111050000){:target="_blank"}를 다운로드 할 수 있다. 
+
+
 ##### 통계청 산업분류
 
 > 업종: 업태 + 종목, 
@@ -32,8 +38,3 @@ published: true
 ##### 국세청 업종분류
 
 > 무신고나 추계신고 시 경비추정액을 산출하기 위한 경비율 적용과 세원 관리 등을 위해 부여한 6자리 코드번호 
-
-
-##### Mapping 코드 : 통계청 산업분류코드 + 국세청 업종코드 
-
-홈텍스 - 조회/발급 - 기타 조회 - 기준 단순 경비율(업종코드)에서 [`업종코드-표준산업분류 연계표(엑셀)`](https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index_pp.xml&tmIdx=1&tm2lIdx=0111050000&tm3lIdx=0111050000){:target="_blank"}를 다운로드 할 수 있다. 
