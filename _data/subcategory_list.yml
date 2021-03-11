@@ -6,7 +6,7 @@ registration:
   parent-category-name: 창업 준비
   description: 법인 설립 준비 과정에 대한 기록
 funding:
-  name: 자본 유치
+  name: 자금 조달
   parent-category: setup
   parent-category-name: 창업 준비
   description: 자본 유치 과정에 대한 기록
