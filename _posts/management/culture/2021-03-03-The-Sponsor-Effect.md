@@ -2,8 +2,8 @@
 layout: post
 title: 후배하나 잘 키웠을 뿐인데
 date: '2021-03-03 08:44:38 -0400'
-category: trace
-author: mac
+category: culture
+author: ccy
 short-description: 당신의 가치는 성과가 아니라 사람에 있다
 published: true
 ---
