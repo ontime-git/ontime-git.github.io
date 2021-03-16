@@ -3,7 +3,7 @@ layout: post
 title: 기업가치평가
 
 date: '2021-03-16 08:44:38 -0400'
-category: funding
+category: accounting
 author: ccy
 short-description: 재무관리 측면
 published: true
